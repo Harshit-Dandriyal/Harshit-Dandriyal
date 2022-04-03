@@ -36,6 +36,12 @@
 
 </h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-dandriyal&show_icons=true&locale=en" alt="harshit-dandriyal" /></p>
+## 📈 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-dandriyal&" alt="harshit-dandriyal" /></p>
+![](https://activity-graph.herokuapp.com/graph?username=Harshit-Dandriyal&theme=dracula&hide_border=true)
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshit-Dandriyal&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
+
+<img height="180em" style="max-width:100%;" src="https://github-readme-streak-stats.herokuapp.com?user=Harshit-Dandriyal&theme=dracula">
+ </p>

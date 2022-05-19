@@ -38,7 +38,7 @@
 
 ## 📈 GitHub Stats
 
-![](https://activity-graph.herokuapp.com/graph?username=Harshit-Dandriyal&theme=dracula&hide_border=true;include_all_commits=true&amp;count_private=true)
+![](https://activity-graph.herokuapp.com/graph?username=Harshit-Dandriyal&theme=dracula&hide_border=true;count_private=true)
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshit-Dandriyal&amp;show_icons=true&amp;theme=dracula&amp; include_all_commits=true&amp;count_private=true" style="max-width:120%;">

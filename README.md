@@ -1,7 +1,7 @@
 <h1 align="center">  Hello there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Harshit Dandriyal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-dandriyal;count_private=true" alt="harshit-dandriyal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-dandriyal" alt="harshit-dandriyal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Coder_Harshit_" target="blank"><img src="https://img.shields.io/twitter/follow/Coder_Harshit_?logo=twitter&style=for-the-badge" alt="harshitdandriy2" /></a> </p>
 

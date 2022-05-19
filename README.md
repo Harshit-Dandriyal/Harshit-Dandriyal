@@ -43,5 +43,5 @@
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshit-Dandriyal&amp;show_icons=true&amp;theme=dracula&amp; include_all_commits=true&amp;count_private=true" style="max-width:120%;">
 
-<img height="180em" style="max-width:100%;" src="https://github-readme-streak-stats.herokuapp.com?user=Harshit-Dandriyal&theme=dracula;include_all_commits=true&amp;count_private=true">
+<img height="180em" style="max-width:100%;" src="https://github-readme-streak-stats.herokuapp.com?user=Harshit-Dandriyal&theme=dracula&amp;include_all_commits=true&amp;count_private=true">
  </p>

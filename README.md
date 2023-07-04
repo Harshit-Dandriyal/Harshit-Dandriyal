@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/coder_dandriyal" target="blank"><img src="https://img.shields.io/twitter/follow/coder_dandriyal?logo=twitter&style=for-the-badge" alt="coder_dandriyal" /></a> </p>
 
-- 🔭 I’m currently working on -- **Meshery**
+- 🔭 I’m currently working on becoming a master of MERN Stack.
 
-- 🌱 I’m currently learning -- **Docker, Kubernetes**
+- 🌱 I’m currently learning -- **Next.js 13**
 
 - 👨‍💻 All of my projects are available at -- [https://github.com/Harshit-Dandriyal?tab=repositories](https://github.com/Harshit-Dandriyal?tab=repositories)
 
-- 💬 Ask me about -- **CSS, React and Golang**
+- 💬 Ask me about -- **React, Express, Nodejs**
 
 - 📫 How to reach me -- **dandriyalh9318@gmail.com**
 
-- ⚡ Fun fact -- **I never give up**
+- ⚡ Fun fact -- **I will give my everything to find solution of given problem**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

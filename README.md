@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on becoming a master of MERN Stack.
 
-- 🌱 I’m currently learning -- **Next.js 13**
+- 🌱 I’m currently learning -- **Next.js 14**
 
 - 👨‍💻 All of my projects are available at -- [https://github.com/Harshit-Dandriyal?tab=repositories](https://github.com/Harshit-Dandriyal?tab=repositories)
 
